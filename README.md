@@ -5,7 +5,7 @@
 
   ## Description
 
-  This website is a static HTML website using semantic tags and minimal CSS
+  This website is a static HTML website using semantic tags and minimal CSS that follows accessibility standards and is optimized for search engines
 
   ## Table of contents
 
@@ -30,7 +30,7 @@
   None 
   Find licence info [here](https://choosealicense.com/)
 
-  ## Contributoring
+  ## Contributing
 
   Self
 
